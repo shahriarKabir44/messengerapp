@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "packages": "npm i",
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
